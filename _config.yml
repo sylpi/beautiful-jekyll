@@ -27,8 +27,8 @@ navbar-links:
   Academic Information:
     - : "http://deanattali.com/beautiful-jekyll/"
     - Projects: "http://www.markdowntutorial.com/"
-    - Publications
-    - GitHub Pages: "https://pages.github.com/"
+    - Publications: 
+    - Curriculum: "https://pages.github.com/"
   Contact: "http://deanattali.com"
   
 
