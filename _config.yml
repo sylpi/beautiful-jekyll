@@ -17,7 +17,7 @@ baseurl: ""
 title: Sylvia Pinheiro
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Something about me
 
 # --- Navigation bar options --- #
 
@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - Academic Information: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://deanattali.com"
