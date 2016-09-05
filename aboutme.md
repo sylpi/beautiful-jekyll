@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About m
+subtitle: Neuroscience is a 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+i(
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Greetings! 
+My name is Sylvia Pinheiro, I was born in the sunny city of Natal, Rio Grande do Norte, nowadays a excellence center for Neuroscience in Brazil. During my undergraduate studies, I got fascinated by the interdisciplinarity of that field, one of the great promises of our time. I graduated in Biology by [Universidade Federal do Rio Grande do Norte - UFRN](www.ufrn.br) in 2012 and got my educator licensure in that area in 2015. Since my 3rd year of graduation, I've been involved in Neuroscience research, beginning in cellular neurobiology, in the [Brain Institute](www.neuro.ufrn.br) of UFRN, that you can check it out in the [Projects](__) section of this website.
 
-What else do you need?
+My concomitant fascination by literature and language conducted me to explore Neuroscience of Language field, inspired by some quite intriguing questions, for instance:  what makes us, human beings, capable of writing? How literacy changed our specie's evolutionary destiny? What's our resemblance with other species regarding communication abilities? Hence, my curiosity in these issues led me to enroll on a M.Sc. in Neuroscience in 2014, in a project investigating ancestral traits of human cognition through graph theory and literature, work available in [Publications](___) page. 
 
-### my history
+As a scientist, I wish to research cognitive and molecular mechanisms implicated in communication as a behavior, better understanding the origins of human language and its precusors in nature. I created this website to share my impressions on some themes of my interest, like education, animal behavior, scientific illustration  and, as expected, biology of language! I am either a big enthusiast of science popularization, volunteering in some events and media collaboration. Other extra-academical topics that I like include fiction writing and reading, watercolor art, mythology, learning about other cultures and idioms and travelling when possible.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
+
