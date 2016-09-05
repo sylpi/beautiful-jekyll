@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About m
-subtitle: Neuroscience is a 
+title: About me
+subtitle: Why don't we talk a little about "talking"? 
 ---
 
 i(
